@@ -11,6 +11,7 @@ Welcome to the Essence of Linear Algebra. Through this course we will explore ga
 ## In Class Materials 
 ### Videos
 * <a href="https://youtu.be/fNk_zzaMoSs"> 3 Blue 1 Brown Linear Algebra: </a> Grant Sanderson's video series on the visualization of linear algebra. 
+
 ### Challenges
 
 ### Games 
