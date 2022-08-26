@@ -10,6 +10,9 @@ Welcome to the Essence of Linear Algebra. Through this course we will explore ga
 
 ### In Class Materials 
 
+### Games 
+
+
 
 
 
