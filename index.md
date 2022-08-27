@@ -14,7 +14,7 @@ Welcome to the Essence of Linear Algebra. Through this course we will explore ga
 
 ### Games 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorWar.pdf">  Vector Battle: </a> This game is a vector arithmatic/geomtery variant of the game <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/Onitama.pdf"> Onitama </a>. More board variants can be found <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorBoardVariants.pdf"> here. </a>
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorBattle.pdf">  Vector Racing: </a> This game as designed by Dr. Vince and involves speeding around a track using vector racers. 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorRacing.pdf">  Vector Racing: </a> This game as designed by Dr. Vince and involves speeding around a track using vector racers. 
 
 
 
