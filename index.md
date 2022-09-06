@@ -1,6 +1,6 @@
 ---
 layout: coursepage
-title: The Essence of Linear Algebra  
+title: Introduction to Linear Algebra
 description: Mr. Merrick 
 show_downloads: FALSE
 
