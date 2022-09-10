@@ -8,7 +8,7 @@ show_downloads: FALSE
 
 ## In Class Materials 
 ### Assignments
-<a href = href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 1 </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 1 </a> 
 
 ### Projects
 
