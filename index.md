@@ -5,6 +5,8 @@ description: Mr. Merrick
 show_downloads: FALSE
 
 ---
+### Homework and timeline
+
 
 ## In Class Materials 
 ### Assignments
