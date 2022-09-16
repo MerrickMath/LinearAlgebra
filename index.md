@@ -6,8 +6,6 @@ show_downloads: FALSE
 
 ---
 ### Schedule
-### Tentative schedule for upcoming classes:
-
 ### Week of Sep. 5
 Kuttler Chapters: 1.1, 1.2.1-1.2.4
 
