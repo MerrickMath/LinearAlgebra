@@ -34,10 +34,24 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project5.pdf"> Project 5 </a>
 ---> 
 
+### Logistics
+
+* <a href="https://vchan2.github.io/LinearAlgebra/Linear_Algebra_2022-23_online.pdf"> Linear Algebra course outline and expecations </a>
+* <a href="https://vchan2.github.io/LinearAlgebra/Linear_Algebra_Course_outline.pdf"> Linear Algebra course at a glance </a>
+
+
 ### Games and Cool Stuff
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorWars.pdf">  Vector Battle: </a> This game is a vector arithmatic/geomtery variant of the game <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/OnitamaGame.pdf"> Onitama </a>. More board variants can be found <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorBoardVariants.pdf"> here. </a> If you have an idea for a new version of this game make sure to let me know! 
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorRacing.pdf">  Vector Racing: </a> This game as designed by Dr. Vince and involves speeding around a track using vector racers. 
-* <a href="https://youtu.be/fNk_zzaMoSs"> 3 Blue 1 Brown Linear Algebra: </a> Grant Sanderson's video series on the visualization of linear algebra. 
+* <a href="https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf"> Open-source textbook used for this class </a>
+* <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"> The Essence of Linear Algebra YouTube series </a> (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>)
+* <a href="https://www.khanacademy.org/math/linear-algebra"> Linear Algebra course (Khan Academy) </a>
+* <a href="https://www.wolframalpha.com/"> Online calculator (WolframAlpha) </a>
+* <a href="https://www.desmos.com/"> Online graphing program (Desmos) </a>
+
+* <a href="https://solveme.edc.org/mobiles/"> Mobile balance puzzles </a>
+   * <a href="https://solveme.edc.org/mobiles/?mobiles=200662"> Dr. Vince's puzzle #1 </a> (Moderate)
+   * <a href="https://solveme.edc.org/mobiles/?mobiles=201443"> Dr. Vince's puzzle #2 </a> (Hard)
+   * <a href="https://solveme.edc.org/mobiles/?mobiles=201442"> Dr. Vince's puzzle #3 </a> (Ultra hard)
 
 
 
