@@ -5,8 +5,18 @@ description: Mr. Merrick
 show_downloads: FALSE
 
 ---
-### Homework and timeline
+### Schedule
+### Tentative schedule for upcoming classes:
 
+### Week of Sep. 5
+Kuttler Chapters: 1.1, 1.2.1-1.2.4
+
+### Week of Sep. 12
+Finish **to completion** asssignment 1. 
+
+### Week of Sep. 19 
+Kuttler Chapters 1.2.5-1.2.6 (applications) 
+Project Number 1
 
 ## In Class Materials 
 ### Assignments
@@ -26,7 +36,7 @@ show_downloads: FALSE
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project2.pdf"> Project 2 </a>  
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project3.pdf"> Project 3 </a>  
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project4.pdf"> Project 4 </a>  
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project5.pdf"> Project 5 </a>  
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project5.pdf"> Project 5 </a>
 ---> 
 
 ### Games and Cool Stuff
