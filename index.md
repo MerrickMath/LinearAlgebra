@@ -8,10 +8,10 @@ show_downloads: FALSE
 ### Schedule
 For this coure we will be following the Kuttler linear algebra textbook located <a href="https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf" > here. </a> The schedule will be posted below: 
 
-**Sept.5-16**: Chapters 1.1, 1.2.1-1.2.4
-**Sept.19-**: Chapters 1.2.5 (and other applications studied in class) 
+* **Sept.5-16**: Chapters 1.1, 1.2.1-1.2.4
+* **Sept.19-**: Chapters 1.2.5 (and other applications studied in class) 
 <!--- 
-**Date-**: 
+* **Date-**: 
 ---> 
 
 ## In Class Materials 
