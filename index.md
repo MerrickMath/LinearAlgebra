@@ -43,7 +43,7 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * <a href="https://vchan2.github.io/LinearAlgebra/Linear_Algebra_Course_outline.pdf"> Linear Algebra course at a glance </a>
 
 
-### Games and Cool Stuff
+### Class Resources 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorWars.pdf">  Vector Battle: </a> This game is a vector arithmatic/geomtery variant of the game <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/OnitamaGame.pdf"> Onitama </a>. More board variants can be found <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorBoardVariants.pdf"> here. </a> If you have an idea for a new version of this game make sure to let me know! 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Games/VectorRacing.pdf">  Vector Racing: </a>  This game as designed by Dr. Vince and involves speeding around a track using vector racers.
 
