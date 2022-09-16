@@ -10,12 +10,14 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 
 * **Sept.5-16**: Chapters 1.1, 1.2.1-1.2.4
 * **Sept.19-23**: Chapters 1.2.5 (and other applications studied in class) 
+
 <!--- 
 * **Date-**: 
 ---> 
 
 ### Assignments
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 1 (Due September 20) </a> 
+
 <!--- 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 2 </a> 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment2.pdf"> Assignment 3 </a> 
@@ -26,6 +28,7 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 ---> 
 
 ### Projects
+
 <!--- 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project1.pdf"> Project 1 </a> 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project2.pdf"> Project 2 </a>  
