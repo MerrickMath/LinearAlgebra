@@ -6,21 +6,17 @@ show_downloads: FALSE
 
 ---
 ### Schedule
-For this coure we will be following the Kuttler linear algebra textbook located <a href="https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf" > here. </a> 
+For this coure we will be following the Kuttler linear algebra textbook located <a href="https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf" > here. </a> The schedule will be posted below: 
 
-### Week of Sep. 5
-Kuttler Chapters: 1.1, 1.2.1-1.2.4
-
-### Week of Sep. 12
-Finish **to completion** asssignment 1 
-
-### Week of Sep. 19 
-Kuttler Chapters 1.2.5-1.2.6 (applications) 
-Project Number 1
+**Sept.5-16**: Chapters 1.1, 1.2.1-1.2.4
+**Sept.19-**: Chapters 1.2.5 (and other applications studied in class) 
+<!--- 
+**Date-**: 
+---> 
 
 ## In Class Materials 
 ### Assignments
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 1 </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 1 (Due September 19) </a> 
 <!--- 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 2 </a> 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment2.pdf"> Assignment 3 </a> 
