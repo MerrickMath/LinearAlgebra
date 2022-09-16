@@ -6,11 +6,13 @@ show_downloads: FALSE
 
 ---
 ### Schedule
+For this coure we will be following the Kuttler linear algebra textbook located <a href="https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf" > here. </a> 
+
 ### Week of Sep. 5
 Kuttler Chapters: 1.1, 1.2.1-1.2.4
 
 ### Week of Sep. 12
-Finish **to completion** asssignment 1. 
+Finish **to completion** asssignment 1 
 
 ### Week of Sep. 19 
 Kuttler Chapters 1.2.5-1.2.6 (applications) 
