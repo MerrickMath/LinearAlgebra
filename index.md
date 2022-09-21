@@ -59,8 +59,7 @@ For this coure we will be following the Kuttler linear algebra textbook located 
    * <a href="https://solveme.edc.org/mobiles/?mobiles=201443"> Dr. Vince's puzzle #2 </a> (Hard)
    * <a href="https://solveme.edc.org/mobiles/?mobiles=201442"> Dr. Vince's puzzle #3 </a> (Ultra hard)
 
-
-
+* <a href="https://vchan2.github.io/LinearAlgebra/Unit1_01_Number_of_Solutions_to_sys_of_lin_eqns.pdf"> Challenge Problem From Dr. Vince </a>
 
 
 
