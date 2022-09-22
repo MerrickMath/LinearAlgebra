@@ -37,6 +37,9 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project5.pdf"> Project 5 </a>
 ---> 
 
+### In Class Materials
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Notes/FlowRates.pdf"> Flow Rates Notes </a>. (From W. Keith Nicholson texbook available <a href="https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf"> here. </a> 
+
 ### Logistics
 
 * <a href="https://vchan2.github.io/LinearAlgebra/Linear_Algebra_2022-23_online.pdf"> Linear Algebra course outline and expecations </a>
