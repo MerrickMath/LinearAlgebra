@@ -9,7 +9,8 @@ show_downloads: FALSE
 For this coure we will be following the Kuttler linear algebra textbook located <a href="https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf" > here. </a> The schedule will be updated weekly and posted below. 
 
 * **Sept.5-16**: Chapters 1.1, 1.2.1-1.2.4
-* **Sept.19-23**: Chapters 1.2.5 (and other applications studied in class) 
+* **Sept.19-29**: Chapters 1.2.5 (and other applications studied in class) 
+* **Sept.26-30**: Chapters  2.1.1-2.1.5 (Addition / Multiplication of Matrices) 
 
 <!--- 
 * **Date-**: 
@@ -17,6 +18,7 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 
 ### Assignments
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 1 (Due September 20) </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment2.pdf"> Assignment 2 </a> 
 
 <!--- 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 2 </a> 
