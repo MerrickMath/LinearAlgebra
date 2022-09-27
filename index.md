@@ -30,7 +30,7 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 ---> 
 
 ### Projects
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project1.pdf"> Project 1 </a>
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Activities/Assignments/Project1.pdf"> Project 1 </a>
 
 <!---  
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project2.pdf"> Project 2 </a>  
