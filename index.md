@@ -39,6 +39,11 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project5.pdf"> Project 5 </a>
 ---> 
 
+
+### Quizzes 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Quiz/Quiz1.pdf"> Quiz 1: Solving system of equations </a>
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Quiz/Quiz2.pdf"> Quiz 2: Solving systems of equations </a>
+
 ### In Class Materials
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Notes/FlowRates.pdf"> Flow rates notes and problems </a> from W. Keith Nicholson texbook available <a href="https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf"> here. </a> 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Notes/Turkey.pdf"> Dr. Vince's turkey lecture notes. </a>
