@@ -46,8 +46,8 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Quiz/Quiz3.pdf"> Quiz 3: Algebra with matrices </a>
 
 ### In Class Materials
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Notes/FlowRates.pdf"> Flow rates notes and problems </a> from W. Keith Nicholson texbook available <a href="https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf"> here. </a> 
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Notes/Turkey.pdf"> Dr. Vince's turkey lecture notes. </a>
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Notes/FlowRates.pdf"> Flow rates notes and problems </a> from W. Keith Nicholson texbook available <a href="https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf"> here </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Notes/Turkey.pdf"> Dr. Vince's turkey lecture notes </a>
 
 ### Logistics
 
