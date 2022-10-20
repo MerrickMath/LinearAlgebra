@@ -12,7 +12,8 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * **Sept.19-29**: Chapters 1.2.5 (and other applications studied in class) 
 * **Sept.26-October 8**: Chapters  2.1.1-2.1.9 (Addition / Multiplication of Matrices) 
 * **Oct.10-16**: Chapters  3.1.1 (Determinants and Properties of Determinants)  
-* **Oct.**: Chapters  3.2 (Applications of Determinants) 
+* **Oct.17-21**: Chapters  3.2 (Applications of Determinants) 
+* **Oct.17-21**: Review of chapters 1-3 and midterm 
 
 <!--- 
 * **Date-**: 
