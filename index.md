@@ -14,10 +14,9 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * **Oct.10-16**: Chapters  3.1.1 (Determinants and Properties of Determinants)  
 * **Oct.17-21**: Chapters  3.2 (Applications of Determinants) 
 * **Oct.24-30**: Review of chapters 1-3 and midterm 
+  * The midterm will be testing chapters 1-3 exculding 1.2.6, 1.2.7, 2.2. The test will include the following applications: flow rate, balancing chemical equations, and polynomial interpolation. 
 
-<!--- 
-* **Date-**: 
----> 
+
 
 ### Assignments
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 1 (Due September 20) </a> 
