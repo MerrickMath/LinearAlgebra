@@ -14,7 +14,8 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * **Oct.10-16**: Chapters  3.1.1 (Determinants and Properties of Determinants)  
 * **Oct.17-21**: Chapters  3.2 (Applications of Determinants) 
 * **Oct.24-30**: Review of chapters 1-3 and midterm 
-  * The midterm will be testing chapters 1-3 exculding 1.2.6, 1.2.7, 2.2. The test will include the following applications: flow rate, balancing chemical equations, and polynomial interpolation. 
+  * The midterm will be testing chapters 1-3 exculding 1.2.6, 1.2.7, 2.2. The test will include the following applications: flow rate, balancing chemical equations, and polynomial interpolation. Additional probalems and practice can be found in Howard Anoton's textbook <a href="https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf"> here.</a> 
+
 
 
 
