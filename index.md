@@ -17,7 +17,8 @@ For this coure we will be following the Kuttler linear algebra textbook located 
   * The midterm will be testing chapters 1-3 exculding 1.2.6, 1.2.7, 2.2. The test will include the following applications: flow rate, balancing chemical equations, and polynomial interpolation. Additional probalems and practice can be found in Howard Anoton's textbook <a href="https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf"> here.</a> 
 * **Oct.31-Nov.3**: Midterm
 * **Nov.7-11:** BREAK 
-* **Nov.14-18:** Start Chapter 4  
+* **Nov.14-18:** Start Chapter 4
+* **Nov.21-25:** 3 Blue 1 Brown Linear Algebra Series 
 
 
 ### Assignments
