@@ -19,6 +19,7 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * **Nov.7-11:** BREAK 
 * **Nov.14-18:** Start Chapter 4
 * **Nov.21-25:** 3 Blue 1 Brown Linear Algebra Series 
+* **Nov.28-Dec.3:** 3 Blue 1 Brown Linear Algebra Series
 
 
 ### Assignments
