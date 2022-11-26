@@ -34,10 +34,7 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Project1.pdf"> Project 1 </a>
 
 <!---  
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project2.pdf"> Project 2 </a>  
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project3.pdf"> Project 3 </a>  
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project4.pdf"> Project 4 </a>  
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Projects/Project5.pdf"> Project 5 </a>
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Project2.pdf"> Project 2 </a>  
 ---> 
 
 
