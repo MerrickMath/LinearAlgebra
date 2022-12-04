@@ -20,7 +20,7 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * **Nov.14-18:** Start Chapter 4
 * **Nov.21-25:** 3 Blue 1 Brown Linear Algebra Series 
 * **Nov.28-Dec.3:** 3 Blue 1 Brown Linear Algebra Series
-
+* **Dec 5-9:** 3 Blue 1 Brown Linear Algebra Series 
 
 ### Assignments
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment1.pdf"> Assignment 1 (Due September 20) </a> 
