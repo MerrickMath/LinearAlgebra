@@ -29,9 +29,8 @@ For this coure we will be following the Kuttler linear algebra textbook located 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment3.pdf"> Assignment 3 (Due October 25) </a>
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment4.pdf"> Assignment 4 (Due October 25) </a>
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/VidAssignment1.pdf"> Video Assignments 1-3 (completed in class) </a>
-<!---* In Class Assignment: 4.7.1, 4.7.8, 4.7.9, 4.7.10, 4.7.11, 4.7.13, 4.7.14, 4.7.17. Complete by December 13.--->
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Assignment5.pdf"> Assignment 5 </a> 
-
+<!---* In Class Assignment: 4.7.1, 4.7.8, 4.7.9, 4.7.10, 4.7.11, 4.7.13, 4.7.14, 4.7.17. Complete by December 13.--->
 
 ### Projects
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-LinearAlgebra/Activities/Assignments/Project1.pdf"> Project 1 </a>
