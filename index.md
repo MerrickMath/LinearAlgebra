@@ -9,23 +9,10 @@ show_downloads: FALSE
 For this coure we will be following the Kuttler linear algebra textbook located <a href="https://lyryx.com/wp-content/uploads/2017/06/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf" > here. </a> The schedule will be updated weekly and posted below. 
 
 <!---
-* **Sept.5-16**: Chapters 1.1, 1.2.1-1.2.4
-* **Sept.19-29**: Chapters 1.2.5 (and other applications studied in class) 
-* **Sept.26-October 8**: Chapters  2.1.1-2.1.9 (Addition / Multiplication of Matrices) 
-* **Oct.10-16**: Chapters  3.1.1 (Determinants and Properties of Determinants)  
-* **Oct.17-21**: Chapters  3.2 (Applications of Determinants) 
-* **Oct.24-30**: Review of chapters 1-3 and midterm 
-  * The midterm will be testing chapters 1-3 exculding 1.2.6, 1.2.7, 2.2. The test will include the following applications: flow rate, balancing chemical equations, and polynomial interpolation. Additional probalems and practice can be found in Howard Anoton's textbook <a href="https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf"> here.</a> 
-* **Oct.31-Nov.3**: Midterm
-* **Nov.7-11:** BREAK 
-* **Nov.14-18:** Start Chapter 4
-* **Nov.21-25:** 3 Blue 1 Brown Linear Algebra Series 
-* **Nov.28-Dec.3:** 3 Blue 1 Brown Linear Algebra Series
-* **Dec. 5-9:** 3 Blue 1 Brown Linear Algebra Series 
-* **Dec. 12-23:** Vector geometry 
-* **Jan. 9-13:** Review Vectors / Systems. 
-* **Jan. 16-20:** Linear Transformations
-* **Jan. 23-27:** Spectral Theory 
+* **Week 1:**: Solving Systems of equations I 
+* **Week 2:**: Solving Systems of equations II 
+* **Week 3:**: Solving Systems of equations III. 
+* **Week 4 - 19:**: Exploring Vectors
 --->
 
 ### Assignments
